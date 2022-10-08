@@ -14,5 +14,6 @@ Here are some ideas to get you started:
     ![Ruby on Rails URL](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby%20on%20rails&style=flat) 
     ![Next.js URL](https://img.shields.io/badge/-Next.js-black.svg?logo=next.js&style=flat)
     ![TypeScript URL](https://img.shields.io/badge/-Typescript-black.svg?logo=typescript&style=flat)
+    ![Linux mint URL](https://img.shields.io/badge/-Linux%20mint-black.svg?logo=Linux%20mint&style=flat)
     
 - 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/SC_Raisa?logo=Twitter&style=flat-square)](https://twitter.com/SC_Raisa)
