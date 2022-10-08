@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisa0726&count_private=true&show_icons=true&theme=react&layout=compact)](https://github.com/raisa0726/github-readme-stats.git)
 
 - 🔭 I’m currently working on My room.
-- 🌱 I’m currently learning Web frameworks.
+- 🌱 I’m currently learning ![Ruby_on_Rails URL](https://img.shields.io/badge/-Ruby%20on%20Rails-red.svg?logo=Ruby%20on%20Rails&style=popout)
 - 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/SC_Raisa?logo=Twitter&style=flat-square)](https://twitter.com/SC_Raisa)
