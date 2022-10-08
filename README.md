@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on My room.
 - 🌱 I’m currently learning 
-    ![Ruby on Rails URL](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby%20on%20rails&style=popout) 
-    ![Next.js URL](https://img.shields.io/badge/-Next.js-black.svg?logo=next.js&style=popout)
+    ![Ruby on Rails URL](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby%20on%20rails&style=flat) 
+    ![Next.js URL](https://img.shields.io/badge/-Next.js-black.svg?logo=next.js&style=flat)
+    ![TypeScript URL](https://img.shields.io/badge/-Typescript-black.svg?logo=typescript&style=flat)
+    
 - 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/SC_Raisa?logo=Twitter&style=flat-square)](https://twitter.com/SC_Raisa)
