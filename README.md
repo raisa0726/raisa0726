@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on My room.
 - 🌱 I’m currently learning Web frameworks.
-- 📫 How to reach me: [Twitter](https://twitter.com/SC_Raisa)
+- 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/SC_Raisa?logo=Twitter&style=flat-square)
