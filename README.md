@@ -6,9 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on 
-My room
-- 🌱 I’m currently learning 
-Web frameworks
-- 📫 How to reach me: 
-[Twitter](https://twitter.com/SC_Raisa)
+- 🔭 I’m currently working on My room.
+- 🌱 I’m currently learning Web frameworks.
+- 📫 How to reach me: [Twitter](https://twitter.com/SC_Raisa)
