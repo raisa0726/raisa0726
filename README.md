@@ -17,4 +17,4 @@ Here are some ideas to get you started:
     ![TypeScript URL](https://img.shields.io/badge/-Typescript-black.svg?logo=typescript&style=flat)
     ![Linux mint URL](https://img.shields.io/badge/-Linux%20mint-black.svg?logo=Linux%20mint&style=flat)
     
-- 📫 How to reach me: ![Twitter URL](https://img.shields.io/twitter/url?label=raisa%27s%20Twitter&url=https%3A%2F%2Ftwitter.com%2FSC_Raisa)
+- 📫 How to reach me: ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2FSC_Raisa)
